@@ -59,8 +59,8 @@ The application provides:
 ## Running the Application
 
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+pip install streamlit
+streamlit run test_app.py
 ```
 
 ## Project Goal
