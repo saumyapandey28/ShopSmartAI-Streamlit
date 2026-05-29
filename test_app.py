@@ -2,11 +2,11 @@
 # AI-Powered E-Commerce Analytics & Recommendation System
 # ============================================================
 
-import streamlit as st # pyright: ignore[reportMissingImports]
-import numpy as np # pyright: ignore[reportMissingImports]
-import pandas as pd # type: ignore
-import plotly.express as px # type: ignore
-import plotly.graph_objects as go # type: ignore
+import streamlit as st
+import numpy as np
+import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
 from datetime import datetime, timedelta
 
 st.set_page_config(
